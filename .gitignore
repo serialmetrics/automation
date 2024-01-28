@@ -1,0 +1,5 @@
+.auth
+**/__pycache__
+.env
+.python-version
+experimental/
