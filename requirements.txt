@@ -1,0 +1,7 @@
+imap-tools
+python-dotenv
+html2text
+beautifulsoup4
+langchain-core
+langchain-community
+langchain-openai
